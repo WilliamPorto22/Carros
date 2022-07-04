@@ -1,0 +1,62 @@
+
+.nav{
+    background-image: linear-gradient(rgb(97 140 171), rgb(165 190 204));
+    font-size: 28px;
+    font-family: arial,sans-serif;
+    color: rgb(30 65 113);
+    
+       
+}
+
+.body{
+    background-color: #c4deed;
+    margin: 0%;
+}
+
+h1{
+    font-size: 40px;
+    color: rgb(30 65 113);
+    display: flex;
+    font-family: arial,sans-serif;
+    justify-content: center;
+}
+.h2{
+    font-family: arial,sans-serif;
+    color: rgb(30 65 113);
+    text-align: center;
+}
+
+.imagcar{
+    width: 100%;
+    height: 50%;
+
+}
+
+.section {
+    display: flex;
+    justify-content: space-around;
+}
+
+.container{
+  
+    font-family: arial,sans-serif;
+    text-align: center;
+    box-shadow: 15px 15px 9px 0px rgb(0 0 0 / 20%);
+    background-color: #9ed8db;
+    margin: 2%
+
+}
+.Para{
+    font-size: 14px;
+}
+
+.button{
+    font-family: arial,sans-serif;
+    font-size: 20px;
+    border: none;
+    border-radius: 20px;
+    background-color: #2ad62dba;
+    color: white;
+    padding: 10px;
+
+}
